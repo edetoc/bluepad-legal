@@ -19,9 +19,9 @@ on your device whenever possible; we collect as little as we can.
 
 The publisher and data controller of the app is:
 
-- **[TODO: Eric Detoc]**
-- Contact: **[TODO: contact@example.com]**
-- Country: **[TODO: France]**
+- **Eric Detoc**
+- Contact: **e_detoc@hotmail.com**
+- Country: **France**
 
 You can reach us at the email above for any privacy-related question or to
 exercise the rights described in section 7.
@@ -147,7 +147,7 @@ Because bluepad stores your data on your device or in your personal iCloud
 account, you can exercise most of these rights yourself by deleting data in
 the app, in Apple Health, in iCloud, or by uninstalling the app.
 
-For any other request, contact us at **[TODO: contact@example.com]**.
+For any other request, contact us at **e_detoc@hotmail.com**.
 
 ---
 
@@ -183,5 +183,5 @@ be announced through an in-app notice or via the app's release notes.
 
 For any question about this Privacy Policy, contact:
 
-**[TODO: Eric Detoc]**
-**[TODO: contact@example.com]**
+**Eric Detoc**
+**e_detoc@hotmail.com**

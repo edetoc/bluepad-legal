@@ -8,7 +8,7 @@ title: Terms of Use
 **Last updated:** 27 May 2026
 
 These Terms of Use ("**Terms**", "**EULA**") form a binding agreement
-between you ("**you**", "**user**") and **[TODO: Eric Detoc]**
+between you ("**you**", "**user**") and **Eric Detoc**
 ("**we**", "**us**") regarding your use of the **bluepad** iOS and
 Apple Watch app ("**bluepad**", "**the app**").
 
@@ -185,10 +185,10 @@ the revised Terms.
 
 ## 13. Governing law and jurisdiction
 
-These Terms are governed by the laws of **[TODO: France]**, without regard
+These Terms are governed by the laws of **France**, without regard
 to its conflict-of-laws principles. Any dispute arising out of or in
 connection with these Terms shall be brought before the competent courts of
-**[TODO: France]**, unless a mandatory law grants you the right to bring
+**France**, unless a mandatory law grants you the right to bring
 the dispute before another court.
 
 Nothing in this section affects any mandatory consumer rights you may have
@@ -200,5 +200,5 @@ under the laws of your country of residence.
 
 For any question about these Terms, contact:
 
-**[TODO: Eric Detoc]**
-**[TODO: contact@example.com]**
+**Eric Detoc**
+**e_detoc@hotmail.com**
