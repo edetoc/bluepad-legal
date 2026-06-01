@@ -1,7 +1,8 @@
-# bluepad — Legal
+# bluepad
 
-Legal documents for the **bluepad** iOS and Apple Watch app.
+Legal and support pages for the **bluepad** iOS and Apple Watch app.
 
+- [Support](./support)
 - [Privacy Policy](./privacy)
 - [Terms of Use (EULA)](./terms)
 
